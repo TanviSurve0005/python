@@ -30,3 +30,8 @@ x=y
 print("X is",x)
 y=temp
 print("Y is",y)
+
+
+x,y =y,x
+print("X is",x)
+print("Y is",y)
