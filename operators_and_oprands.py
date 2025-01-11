@@ -1,6 +1,5 @@
 #Arithmetic operators
 #Modulus
-from lib2to3.pgen2.tokenize import Operator
 
 print(8%3)
 
