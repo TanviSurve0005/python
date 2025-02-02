@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9188680b-8a75-447d-80f4-9fae215f3791" name="Changes" comment="problem_solving5">
-      <change afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_solving6.py" afterDir="false" />
+    <list default="true" id="9188680b-8a75-447d-80f4-9fae215f3791" name="Changes" comment="List_Operations">
+      <change afterPath="$PROJECT_DIR$/conversion_of_tuples_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction_to_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction_to_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem_solving7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +61,10 @@
     "Python.ProblemSolving1.executor": "Run",
     "Python.TypeCasting_Subtypes.executor": "Run",
     "Python.conditional_statements.executor": "Run",
+    "Python.conversion_of_tuples_functions.executor": "Run",
     "Python.firstProgram.executor": "Run",
+    "Python.introduction_to_dictionary.executor": "Run",
+    "Python.introduction_to_tuples.executor": "Run",
     "Python.list_comprehension.executor": "Run",
     "Python.list_function.executor": "Run",
     "Python.loops.executor": "Run",
@@ -69,6 +74,7 @@
     "Python.problem_solving4.executor": "Run",
     "Python.problem_solving5.executor": "Run",
     "Python.problem_solving6.executor": "Run",
+    "Python.problem_solving7.executor": "Run",
     "Python.string_function3.executor": "Run",
     "Python.string_manipulation.executor": "Run",
     "Python.string_slicing.executor": "Run",
@@ -77,8 +83,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.problem_solving6">
-    <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.introduction_to_dictionary">
+    <configuration name="conversion_of_tuples_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conversion_of_tuples_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="introduction_to_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/introduction_to_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem_solving5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="introduction_to_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_solving5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/introduction_to_tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="problem_solving7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_solving7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.introduction_to_dictionary" />
+        <item itemvalue="Python.problem_solving7" />
+        <item itemvalue="Python.conversion_of_tuples_functions" />
+        <item itemvalue="Python.introduction_to_tuples" />
         <item itemvalue="Python.problem_solving6" />
-        <item itemvalue="Python.list_comprehension" />
-        <item itemvalue="Python.list_function" />
-        <item itemvalue="Python.problem_solving5" />
-        <item itemvalue="Python.string_slicing" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737119471727</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="List_Operations">
+      <option name="closed" value="true" />
+      <created>1738509254456</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738509254456</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +365,7 @@
     <MESSAGE value="Loops and Strings" />
     <MESSAGE value="string_function3" />
     <MESSAGE value="problem_solving5" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_solving5" />
+    <MESSAGE value="List_Operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="List_Operations" />
   </component>
 </project>
